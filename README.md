@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=A+Passionate+Full+Stack+Developer;From+Beautiful+Sri+Lanka+🇱🇰;Always+Learning+%26+Building+Amazing+Things!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=anuradha-herath&label=Profile%20views&color=blueviolet&style=for-the-badge)
-</div>
-
 ---
 
 ## 📋 Table of Contents
@@ -78,17 +73,32 @@ const anuradha = {
 
 </div>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics  
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuradha-herath&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuradha-herath&layout=compact&langs_count=8&theme=radical"/>
-  
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuradha-herath&theme=radical" alt="GitHub Streak" />
+### ⚡ Profile Insights  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anuradha-herath&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="views"/>
+  <img src="https://img.shields.io/github/followers/anuradha-herath?label=Followers&style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/github/stars/anuradha-herath?label=Stars&style=for-the-badge&color=blueviolet"/>
+</p>
+
+---
+
+### 📈 Contribution Stats  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuradha-herath&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuradha-herath&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+### 🔥 Streak Tracker  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anuradha-herath&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 </div>
 
 ---
