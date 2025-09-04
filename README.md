@@ -108,31 +108,3 @@ const anuradha = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuradha-herath&theme=radical" alt="GitHub Streak" />
 </div>
 
----
-
-## 🎯 Current Focus
-
-- 🔭 Building scalable full-stack applications
-- 🌱 Learning advanced cloud technologies
-- 👯 Looking to collaborate on innovative projects
-- 💬 Ask me about **React, Node.js, MongoDB, or any web development topic**
-- ⚡ Fun fact: **I believe great code is like a good joke - if you have to explain it, it's probably not that good!**
-
----
-
-<div align="center">
-  
-  ### 💭 Random Dev Quote
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-</div>
-
----
-
-<div align="center">
-  
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-  
-</div>
