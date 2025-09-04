@@ -15,8 +15,8 @@
 - [🏆 GitHub Trophies](#-github-trophies)
 - [🚀 About Me](#-about-me)
 - [📫 Let's Connect!](#-lets-connect)
+- [ GitHub Analytics](#-github-analytics)
 - [🛠️ Tech Stack](#️-tech-stack)
-- [📊 GitHub Analytics](#-github-analytics)
 
 ---
 
@@ -76,6 +76,19 @@ const anuradha = {
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="60" alt="HackerRank"/>
 </a>
 
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuradha-herath&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuradha-herath&layout=compact&langs_count=8&theme=radical"/>
+  
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuradha-herath&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
@@ -176,21 +189,6 @@ const anuradha = {
   </a>
 </div>
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuradha-herath&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuradha-herath&layout=compact&langs_count=8&theme=radical"/>
-  
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuradha-herath&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
