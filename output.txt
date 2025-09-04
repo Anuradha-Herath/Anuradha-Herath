@@ -1,0 +1,31 @@
+
+> anuradha-portfolio-bugfixes@1.0.0 start
+> node src/index.js
+
+=== Enhanced Bug Fixes Demo ===
+
+Calculator Examples:
+✓ 10 + 5 = 15
+✓ 10 - 3 = 7
+✓ 4 * 6 = 24
+✓ 15 / 3 = 5
+✓ 50% of 200 = 100
+✓ 2^8 = 256
+
+String Utils Examples:
+✓ Email validation (test@example.com): true
+✓ Capitalize words (hello world): Hello World
+✓ Trim spaces (  hello   world  ): "hello world"
+✓ Count words (hello beautiful world): 3
+✓ Reverse string (javascript): tpircsavaj
+✓ Is palindrome (racecar): true
+
+Array Utils Examples:
+✓ Remove duplicates [1,2,2,3,3,4]: [ 1, 2, 3, 4 ]
+✓ Find max [1,5,3,9,2]: 9
+✓ Find min [1,5,3,9,2]: 1
+✓ Average [1,2,3,4,5]: 3
+✓ Flatten [[1,2],[3,[4,5]]]: [ 1, 2, 3, 4, 5 ]
+✓ Chunk [1,2,3,4,5,6] by 2: [ [ 1, 2 ], [ 3, 4 ], [ 5, 6 ] ]
+
+=== All examples completed successfully! ===

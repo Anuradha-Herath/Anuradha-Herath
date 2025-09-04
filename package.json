@@ -1,0 +1,28 @@
+{
+  "name": "anuradha-portfolio-bugfixes",
+  "version": "1.0.0",
+  "description": "Portfolio repository with enhanced bug fixes and testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint src/**/*.js",
+    "lint:fix": "eslint src/**/*.js --fix",
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": ["portfolio", "javascript", "bug-fixes", "testing"],
+  "author": "Anuradha Herath",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "eslint": "^8.0.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.25.0",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "nodemon": "^3.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
