@@ -69,7 +69,7 @@ const anuradha = {
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://herathanuradha.vercel.app/" target="_blank">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-vercel-inc-a-cloud-platform-for-static-sites-and-serverless-functions-logo-shadow-tal-revivo.png" width="60" alt="Portfolio"/>
+  <img src="https://img.icons8.com/color/96/000000/portfolio.png" width="60" alt="Portfolio"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/anuradhaherath21" target="_blank">
