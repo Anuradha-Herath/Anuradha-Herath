@@ -1,14 +1,21 @@
-# 👋 Hi there, I'm **Anuradha**
+# 👋 Hi there, I'm **Anuradha Herath**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=A+Passionate+Full+Stack+Developer;From+Beautiful+Sri+Lanka+🇱🇰;Always+Learning+%26+Building+Amazing+Things!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  
   ![Profile Views](https://komarev.com/ghpvc/?username=anuradha-herath&label=Profile%20views&color=blueviolet&style=for-the-badge)
-  
 </div>
+
+---
+
+## 📋 Table of Contents
+- [🏆 GitHub Trophies](#-github-trophies)
+- [🚀 About Me](#-about-me)
+- [📫 Let's Connect!](#-lets-connect)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [📊 GitHub Analytics](#-github-analytics)
 
 ---
 
@@ -42,13 +49,38 @@ const anuradha = {
 ## 📫 Let's Connect!
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuradha-herath-4473372b2)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuradhaherath2001@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/anuradha.herath.9275/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_anuradha_herath_)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/anuradhaherath21)
-
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/anuradha-herath-4473372b2">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:anuradhaherath2001@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120" alt="Email"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://fb.com/anuradha.herath.9275/">
+          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="120" alt="Facebook"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://instagram.com/_anuradha_herath_">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="120" alt="Instagram"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.hackerrank.com/anuradhaherath21">
+          <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" width="120" alt="HackerRank"/>
+        </a>
+      </td>
+      <td></td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -58,38 +90,119 @@ const anuradha = {
 <div align="center">
 
 ### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="120" alt="JavaScript"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width="120" alt="TypeScript"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="120" alt="Python"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="120" alt="Java"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="120" alt="PHP"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="120" alt="C"/>
+    </td>
+  </tr>
+</table>
 
 ### 🌐 Frontend Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="120" alt="React"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" width="120" alt="Vue.js"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" width="120" alt="Next.js"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="120" alt="HTML5"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="120" alt="CSS3"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="120" alt="Bootstrap"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width="120" alt="Tailwind CSS"/>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ### ⚙️ Backend Technologies
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="120" alt="Node.js"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" width="120" alt="Express.js"/>
+    </td>
+  </tr>
+</table>
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="120" alt="MongoDB"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="120" alt="MySQL"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="120" alt="PostgreSQL"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" width="120" alt="Microsoft SQL Server"/>
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Tools & Technologies
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="120" alt="Docker"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="120" alt="Git"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" width="120" alt="Postman"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="120" alt="Figma"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" width="120" alt="Arduino"/>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 </div>
 
@@ -106,5 +219,12 @@ const anuradha = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuradha-herath&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <p>⭐ <strong>Feel free to star my repos if you find them useful!</strong> ⭐</p>
+  <p>© 2025 Anuradha Herath. All rights reserved.</p>
 </div>
 
