@@ -21,8 +21,39 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anuradha-herath&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <h3>🎖️ Achievement Showcase</h3>
+  <p><em>Celebrating milestones and contributions in the coding journey</em></p>
+  
+  <div style="background: linear-gradient(135deg, #21262d 0%, #30363d 25%, #21262d 50%, #161b22 75%, #0d1117 100%); border: 1px solid #30363d; padding: 25px; border-radius: 12px; margin: 20px 0; box-shadow: 0 8px 32px rgba(139, 69, 19, 0.1);">
+    <img src="https://github-profile-trophy.vercel.app/?username=anuradha-herath&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&margin-h=4&column=4&row=2" alt="GitHub Trophies" style="border-radius: 8px;" />
+  </div>
+  
+  <div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
+    <img src="https://img.shields.io/badge/🏆-Trophy_Hunter-F9826C?style=for-the-badge&logoColor=white" alt="Trophy Hunter"/>
+    <img src="https://img.shields.io/badge/🎯-Goal_Achiever-58A6FF?style=for-the-badge&logoColor=white" alt="Goal Achiever"/>
+    <img src="https://img.shields.io/badge/⭐-Star_Collector-7C3AED?style=for-the-badge&logoColor=white" alt="Star Collector"/>
+  </div>
+  
+  <details>
+    <summary><strong>🔍 View Trophy Details</strong></summary>
+    <br>
+    <table>
+      <tr>
+        <td align="center"><strong>🥇 Gold Trophies</strong></td>
+        <td>Exceptional achievements and milestones</td>
+      </tr>
+      <tr>
+        <td align="center"><strong>🥈 Silver Trophies</strong></td>
+        <td>Significant contributions and progress</td>
+      </tr>
+      <tr>
+        <td align="center"><strong>🥉 Bronze Trophies</strong></td>
+        <td>Foundation building and early accomplishments</td>
+      </tr>
+    </table>
+  </details>
 </div>
 
 ---
