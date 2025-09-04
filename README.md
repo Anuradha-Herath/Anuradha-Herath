@@ -29,6 +29,31 @@
   <div style="background: linear-gradient(135deg, #21262d 0%, #30363d 25%, #21262d 50%, #161b22 75%, #0d1117 100%); border: 1px solid #30363d; padding: 25px; border-radius: 12px; margin: 20px 0; box-shadow: 0 8px 32px rgba(139, 69, 19, 0.1);">
     <img src="https://github-profile-trophy.vercel.app/?username=anuradha-herath&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&margin-h=4&column=4&row=2" alt="GitHub Trophies" style="border-radius: 8px;" />
   </div>
+  
+  <div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
+    <img src="https://img.shields.io/badge/🏆-Trophy_Hunter-F9826C?style=for-the-badge&logoColor=white" alt="Trophy Hunter"/>
+    <img src="https://img.shields.io/badge/🎯-Goal_Achiever-58A6FF?style=for-the-badge&logoColor=white" alt="Goal Achiever"/>
+    <img src="https://img.shields.io/badge/⭐-Star_Collector-7C3AED?style=for-the-badge&logoColor=white" alt="Star Collector"/>
+  </div>
+  
+  <details>
+    <summary><strong>🔍 View Trophy Details</strong></summary>
+    <br>
+    <table>
+      <tr>
+        <td align="center"><strong>🥇 Gold Trophies</strong></td>
+        <td>Exceptional achievements and milestones</td>
+      </tr>
+      <tr>
+        <td align="center"><strong>🥈 Silver Trophies</strong></td>
+        <td>Significant contributions and progress</td>
+      </tr>
+      <tr>
+        <td align="center"><strong>🥉 Bronze Trophies</strong></td>
+        <td>Foundation building and early accomplishments</td>
+      </tr>
+    </table>
+  </details>
 </div>
 
 ---
@@ -56,35 +81,38 @@ const anuradha = {
 ## 📫 Let's Connect!
 
 <div align="center">
-  <h3 style="color: #58a6ff; margin-bottom: 10px;">🌐 Find me around the web</h3>
-  
-  <div style="background: linear-gradient(135deg, #161b22 0%, #21262d 50%, #30363d 100%); border: 1px solid #30363d; border-radius: 16px; padding: 20px; margin: 15px auto; max-width: 500px; box-shadow: 0 4px 15px rgba(88, 166, 255, 0.1);">
-    
-    <div style="display: flex; justify-content: center; align-items: center; gap: 8px; flex-wrap: wrap;">
-      <a href="https://linkedin.com/in/anuradha-herath-4473372b2" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=21262d" height="28" alt="LinkedIn"/>
-      </a>
-      <a href="mailto:anuradhaherath2001@gmail.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=21262d" height="28" alt="Email"/>
-      </a>
-      <a href="https://fb.com/anuradha.herath.9275/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&labelColor=21262d" height="28" alt="Facebook"/>
-      </a>
-      <a href="https://instagram.com/_anuradha_herath_" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=21262d" height="28" alt="Instagram"/>
-      </a>
-      <a href="https://www.hackerrank.com/anuradhaherath21" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white&labelColor=21262d" height="28" alt="HackerRank"/>
-      </a>
-    </div>
-    
-    <div style="margin-top: 15px; padding-top: 15px; border-top: 1px solid #30363d;">
-      <p style="color: #8b949e; font-size: 14px; margin: 0; font-style: italic;">
-        💬 Always open to interesting conversations and collaboration opportunities!
-      </p>
-    </div>
-    
-  </div>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/anuradha-herath-4473372b2">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:anuradhaherath2001@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120" alt="Email"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://fb.com/anuradha.herath.9275/">
+          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="120" alt="Facebook"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://instagram.com/_anuradha_herath_">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="120" alt="Instagram"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.hackerrank.com/anuradhaherath21">
+          <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" width="120" alt="HackerRank"/>
+        </a>
+      </td>
+      <td></td>
+    </tr>
+  </table>
 </div>
 
 ---
