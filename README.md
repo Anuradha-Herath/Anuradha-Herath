@@ -5,7 +5,8 @@
 </div>
 
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Anuradha-Herath&label=Profile%20views&color=blueviolet&style=for-the-badge)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=anuradha-herath&label=Profile%20views&color=blueviolet&style=for-the-badge)
 </div>
 
 ---
