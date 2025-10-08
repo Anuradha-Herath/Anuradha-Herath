@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **Anuradha Herath**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=A+Passionate+Full+Stack+Developer;DevOps+Enthusiast;IT+Undergraduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=A+Passionate+Full+Stack+Developer;DevOps+Enthusiast;IT+Undergraduate+at+University+of+Moratuwa;From+Beautiful+Sri+Lanka+🇱🇰" alt="Typing SVG" />
 </div>
 
 ---
