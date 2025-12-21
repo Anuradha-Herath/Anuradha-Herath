@@ -9,7 +9,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anuradha-herath&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&margin-h=4&column=6&row=1" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=anuradha-herath&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&margin-h=4&column=8&row=1" alt="GitHub Trophies" />
 </div>
 
 ## 📫 Let's Connect!  
