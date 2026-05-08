@@ -56,7 +56,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,spring,php,c,dotnet,react,vue,nextjs,html,css,bootstrap,tailwind,nodejs,express,mongodb,mysql,postgres,docker,git,postman,figma&perline=8" alt="Technology stack icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,spring,php,c,dotnet,react,nextjs,html,css,tailwind,nodejs,mongodb,mysql,postgres,docker,laravel&perline=8" alt="Technology stack icons" />
 </div>
 
 ---
