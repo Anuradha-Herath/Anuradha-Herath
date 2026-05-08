@@ -56,7 +56,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,spring,php,c,dotnet,react,vue,nextjs,html,css,bootstrap,tailwind,nodejs,express,mongodb,mysql,postgres,docker,git,postman,figma&perline=8" alt="Tech stack icons: JavaScript, TypeScript, Python, and 21 more technologies" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,spring,php,c,dotnet,react,vue,nextjs,html,css,bootstrap,tailwind,nodejs,express,mongodb,mysql,postgres,docker,git,postman,figma&perline=8" alt="Tech stack icons including JavaScript, TypeScript, Python, Java, Spring, PHP, C, .NET, React, Vue, Next.js, HTML, CSS, Bootstrap, Tailwind, Node.js, Express, MongoDB, MySQL, PostgreSQL, Docker, Git, Postman, and Figma" />
 </div>
 
 ---
